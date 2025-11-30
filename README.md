@@ -36,7 +36,7 @@ sudo apt install ffmpeg
 
 2. Clone the Repository
 ```bash
-git clone https://github.com/DevManoj96/Youtube-Video-Audio-Downloader.git
+git clone https://github.com/VoinFeix/Youtube-Video-Audio-Downloader.git
 cd Youtube-Video-Audio-Downloader
 ```
 3. Run The Program
